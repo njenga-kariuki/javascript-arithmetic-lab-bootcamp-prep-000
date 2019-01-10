@@ -15,5 +15,10 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  returns a-b
+  returns n++
 }
+
+function dec(n) {
+  returns n--
+}
+
